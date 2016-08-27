@@ -1,0 +1,5261 @@
+[
+  {
+    "_id": "57ac43a1e396ef981f39e8ff",
+    "_layout": "right",
+    "_parentId": "57ac437de396ef981f39e8fd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac439de396ef981f39e8fe",
+    "_layout": "left",
+    "_parentId": "57ac437de396ef981f39e8fd",
+    "_type": "component",
+    "body": "<p>Visual representations of information hugely decrease the amount of time it takes to communicate a message. However, not all data visualisations are made equal and in some cases a combination of tricks are used to either emphasise or point or worse, deliberately mislead.&nbsp;In this module we look at visual deception in data visualisation and how to avoid being caught out.&nbsp;</p>\n\n<p>In this module we&#39;ll explore the following:&nbsp;</p>\n\n<ul>\n\t<li>Base line failure</li>\n\t<li>Multiple misleading scales&nbsp;</li>\n\t<li>Adding depth and area</li>\n\t<li>Percentages that don&#39;t add up</li>\n\t<li>Area and staked area charts</li>\n</ul>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "Visual deception",
+    "title": "Visual deception",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac45ade396ef981f39e904",
+    "_layout": "right",
+    "_parentId": "57ac459be396ef981f39e903",
+    "_type": "component",
+    "body": "<p>Not starting at zero causes what is known as baseline failure.</p>\n\n<p>When looking at a bar chart, the human brain looks instantly at the size of the bar, not the value it represents.&nbsp;Therefore, to make a value (or difference) appear larger than it is you, don&#39;t start the scale at zero.&nbsp;</p>\n\n<p>This is a very common trick used to emphasise a difference that would appear small otherwise.&nbsp;</p>\n",
+    "displayTitle": "Baseline failure",
+    "title": "Baseline failure",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac45b0e396ef981f39e905",
+    "_layout": "left",
+    "_parentId": "57ac459be396ef981f39e903",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/db9331e718cd2b758ef3a27ecb650cd34ef7fd33.jpg",
+      "small": "course/en/assets/db9331e718cd2b758ef3a27ecb650cd34ef7fd33.jpg",
+      "attribution": "Fox News"
+    }
+  },
+  {
+    "_id": "57ac4895e396ef981f39e912",
+    "_layout": "left",
+    "_parentId": "57ac488ce396ef981f39e911",
+    "_type": "component",
+    "body": "<p>Another common method used to emphasise a difference or correlation is to use multiple scales.&nbsp;</p>\n\n<p>Typically this involves having one scale on each side of the chart that each relate to different plots of data.&nbsp;</p>\n\n<p>The example shown here from the Colorado Department of Transport uses two scales to try and emphasise how different fatal accidents are in 2016 compared to previous years.&nbsp;</p>\n\n<p>Things to note:</p>\n\n<ul>\n\t<li>The scale on the right does not start at zero (baseline failure)</li>\n\t<li>The intervals on the two scales are different</li>\n\t<li>The coloured bars for other years are not for the same years (i.e.&nbsp;green is not always&nbsp;2010)</li>\n</ul>\n",
+    "displayTitle": "Multiple scales",
+    "title": "Multiple scales",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac489ae396ef981f39e913",
+    "_layout": "right",
+    "_parentId": "57ac488ce396ef981f39e911",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/99da2f20fc6d50aa064a09aeb8c2fffd51651480.png",
+      "small": "course/en/assets/99da2f20fc6d50aa064a09aeb8c2fffd51651480.png",
+      "attribution": "Colorado department of transport"
+    }
+  },
+  {
+    "_id": "57ac4bc8e396ef981f39e91c",
+    "_layout": "full",
+    "_parentId": "57ac4bbee396ef981f39e91b",
+    "_type": "component",
+    "body": "<p>David Tarrant from the Open Data Institute gives advice on how to avoid being deceived by information presented visually.</p>\n",
+    "displayTitle": "Visual deception in 2 minutes",
+    "title": "Visual deception in 2 minutes",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "57ac4e8de396ef981f39e922",
+    "_layout": "left",
+    "_parentId": "57ac4dd0e396ef981f39e921",
+    "_type": "component",
+    "body": "<p>As the data journalism book (Gray et al. 2012) notes, this is a good question. For a journalist, it is anything where data is involved and for a data worker, it is where you tell stories.</p>\n\n<p>This session takes a look at what data journalism is&nbsp;and key examples:&nbsp;</p>\n\n<p>- Different types of data journalism.</p>\n\n<p>- Difference between data journalism and data science.</p>\n\n<p>- Case Studies.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "What is Data Journalism?",
+    "title": "What is Data Journalism?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac4e90e396ef981f39e923",
+    "_layout": "right",
+    "_parentId": "57ac4dd0e396ef981f39e921",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac4c78e396ef981f39e91e",
+    "_layout": "full",
+    "_parentId": "57ac4c62e396ef981f39e91d",
+    "_type": "component",
+    "body": "<p>The first thing that the brain notices when looking at a visualisation is the size of different parts.&nbsp;</p>\n",
+    "displayTitle": "Adding depth and area",
+    "title": "Adding depth and area",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more.",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Adding depth",
+        "body": "<p>Adding 3D effects increases the area of a graph. To the human brain the perceived size is now larger with the additional volume.&nbsp;</p>\n\n<p>Providing that the volume is equal in all cases then this is fine (e.g. the volume of an area with value 4&nbsp;is&nbsp;<strong>exactly</strong>&nbsp;twice the volume of an area with value 2).&nbsp;</p>\n\n<p>However if the volumes are not proportional, or as is the case here, potentially infinite, then it can be difficult to grasp real values.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/becc93fb17de6ed165b9891abe6fb851775ac273.jpg",
+          "alt": ""
+        },
+        "strapline": "New York state expenditure"
+      },
+      {
+        "title": "Removing depth",
+        "body": "<p>Removing the 3D infinite depth shows a different view of the data.&nbsp;</p>\n\n<p>With the depth removed, previously large changes are no longer present in the data.&nbsp;</p>\n\n<p>Interestingly this data also suffers from the fact that the figures have not been adjusted for inflation. Adjusting the figures shows that state expenditure had not changed in real terms for the previous seven&nbsp;years.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/758439c9a2b0edc0fbb19e6ed6c66ad1ccd8497d.jpg",
+          "alt": ""
+        },
+        "strapline": "New York state expenditure (simplified)"
+      },
+      {
+        "title": "Radius and area",
+        "body": "<p>Using raw values as the radius of a circle&nbsp;is another big mistake.&nbsp;</p>\n\n<p>The easy way to spot this mistake is to attempt to fit a smaller circle inside a bigger circle. For example a circle representing the value one should fit in another representing the value three exactly three times.&nbsp;</p>\n\n<p>As can be seen in the example here this is not the case, making small difference look huge as a result.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/7c422cfc6ad4640bd456aac607a7d776296f5302.jpg",
+          "alt": ""
+        },
+        "strapline": "Radius and area failure"
+      }
+    ]
+  },
+  {
+    "_id": "57ac54d1e396ef981f39e935",
+    "_layout": "right",
+    "_parentId": "57ac549ce396ef981f39e933",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d3f89a6758812def9582f6977de3872488742d4c.png",
+      "small": "course/en/assets/d3f89a6758812def9582f6977de3872488742d4c.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac54cee396ef981f39e934",
+    "_layout": "left",
+    "_parentId": "57ac549ce396ef981f39e933",
+    "_type": "component",
+    "body": "<p>As well as issues with area, pie charts also suffer from other problems when plotting percentages.&nbsp;</p>\n\n<p>While the pie chart presented here appears to be logical, the values only add up to 62%. So what happened to the other 38% &nbsp;of safety concerns?</p>\n\n<p>It is also worth observing that the size of the 19% quadrant is also far larger than what a 25% quadrant should&nbsp;be.</p>\n",
+    "displayTitle": " Percentages",
+    "title": " Percentages",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac5620e396ef981f39e939",
+    "_layout": "left",
+    "_parentId": "57ac5607e396ef981f39e938",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">A journalist is someone who reports the news. This news is created by others and it is a journalist&#39;s job to broadcast this news. In this sense, a data journalist is someone who broadcasts news related to or involving data.</p>\n\n<p dir=\"ltr\">However in other cases, a journalist may well interrogate and interpret the data and become the source of the story, rather than just reporting it.</p>\n\n<p dir=\"ltr\">This means that data journalists can typically be split into two types: those who report on data (reactive), and those who interrogate data to find stories (proactive).</p>\n",
+    "displayTitle": "Different types of Data Journalism ",
+    "title": "Different types of Data Journalism ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Reactive data journalists ",
+        "body": "<p>Reactive data journalists report news related to or involving data. Such stories often prefixed with the phrase, &ldquo;figures reveal&hellip;&rdquo;. An example of reactive data journalism is when&nbsp;US president Barack Obama asked news organisations to publish data comparing gun deaths and terrorism deaths in the US.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Proactive (Investigative) data journalists",
+        "body": "<p>Investigative data journalists will take a deeper look at the source data and apply their own context. For example, an investigative data journalist may take a set of published figures, perhaps from a seemingly worthless dataset, and try and establish the local or meaningful impact of this to their readers. They may also look for what data has not been recorded and find a story in the omissions. For example, Florence Nightingale and her key report, &#39;Mortality of the British Army&#39;.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "57ac5624e396ef981f39e93a",
+    "_layout": "right",
+    "_parentId": "57ac5607e396ef981f39e938",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9d05c65d3eb14b6c4e38008dc0f06fd4988f50fe.png",
+      "small": "course/en/assets/9d05c65d3eb14b6c4e38008dc0f06fd4988f50fe.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac578ce396ef981f39e945",
+    "_layout": "full",
+    "_parentId": "57ac5781e396ef981f39e944",
+    "_type": "component",
+    "body": "<p>Perhaps one of the most confusing charts ever created. Introducing&nbsp;area, stacked area and the stream graph.</p>\n",
+    "displayTitle": "Area and stacked area charts",
+    "title": "Area and stacked area charts",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Area charts",
+        "body": "<p>Area charts are great for showing a single value that may consist of many parts. However if being used to compare two or more sets of values they should be avoided.&nbsp;</p>\n\n<p>Why?&nbsp;</p>\n\n<p>Because when the human brain looks at an area chart it sees mountains. Which means that one set of values is behind the other.&nbsp;</p>\n\n<p>This is correct for an area graph, so why should you not use them? Click to the next section to find out...&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/62186a87264ebc59ab4c6bc73c6e88a07a62e343.jpg",
+          "alt": ""
+        },
+        "strapline": "Area chart"
+      },
+      {
+        "title": "Stacked area charts",
+        "body": "<p>The stacked area chart looks exactly the same as an area chart. However the two sets of values are now on top of each other not behind one another.</p>\n\n<p>How do you tell?</p>\n\n<p>There is no way for sure to tell what you are looking at unless it is stated.&nbsp;</p>\n\n<p>Take a look at both examples here as they use exactly the same set of source data. Can you tell the difference?</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/b364223b22fc06d77b12f50f39bd4da961d73030.jpg",
+          "alt": ""
+        },
+        "strapline": "Stacked area chart"
+      },
+      {
+        "title": "Stream graphs",
+        "body": "<p>Going one step worse and we have the stream graph.</p>\n\n<p>Is this stacked or an area chart?&nbsp;</p>\n\n<p>Where is the zero value on the y-axis?</p>\n\n<p>Is the order of items significant?</p>\n\n<p>Abandon all hope!&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/b1426dd8e5e24ae387c8d59ab5169aad6edb9001.jpg",
+          "alt": ""
+        },
+        "strapline": "Stream graph"
+      }
+    ]
+  },
+  {
+    "_id": "57ac5c7fe396ef981f39e953",
+    "_layout": "right",
+    "_parentId": "57ac5c52e396ef981f39e951",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac5f95e396ef981f39e95c",
+    "_layout": "left",
+    "_parentId": "57ac5f84e396ef981f39e959",
+    "_type": "component",
+    "body": "<p>In what way&nbsp;does the visualisation here attempt to mislead the viewer?</p>\n",
+    "displayTitle": "Identify the deception!",
+    "title": "Identify the deception!",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Baseline failure",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Radius/Area failure",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Baseline and Area/Radius failure",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! This visualisations scale starts at 6.3, thus it suffers from baseline failure. Further the areas of the triangles are not proportional to each other and are actually out by a distortion factor of 5!</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?&nbsp;This visualisations scale starts at 6.3, thus it suffers from baseline failure. Further the areas of the triangles are not proportional to each other and are actually out by a distortion factor of 5!</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57ac5f8ae396ef981f39e95a",
+    "_layout": "right",
+    "_parentId": "57ac5f84e396ef981f39e959",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/672bf2eb96b5642e5d515626558e12effcde751b.jpg",
+      "small": "course/en/assets/672bf2eb96b5642e5d515626558e12effcde751b.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac61b8e396ef981f39e96b",
+    "_layout": "left",
+    "_parentId": "57ac619ee396ef981f39e96a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/df4f58cc130dde9a671827313192401b8cb263ca.jpg",
+      "small": "course/en/assets/df4f58cc130dde9a671827313192401b8cb263ca.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac62e4e396ef981f39e97b",
+    "_layout": "right",
+    "_parentId": "57ac62d4e396ef981f39e97a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4c2ff782b7863fb71b0c8cfb32e6d865d5d676bc.png",
+      "small": "course/en/assets/4c2ff782b7863fb71b0c8cfb32e6d865d5d676bc.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac6452e396ef981f39e98d",
+    "_layout": "right",
+    "_parentId": "57ac6439e396ef981f39e98c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b2c2e0e396ef981f39ea90",
+    "_layout": "right",
+    "_parentId": "57b2c1c9e396ef981f39ea8e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b2c2dde396ef981f39ea8f",
+    "_layout": "left",
+    "_parentId": "57b2c1c9e396ef981f39ea8e",
+    "_type": "component",
+    "body": "<p>Visualising data&nbsp;enables us to&nbsp;grasp difficult concepts or identify new patterns quickly. Rather that having to process and understand raw data, a visualisation can present a bigger picture that our eye and brain can recognise and order much faster. In this module we introduce the key concepts that make information &quot;pop&quot; and explain how you can make a visualisation that appeals to the eye.&nbsp;</p>\n\n<p>In this module we are going to cover:</p>\n\n<ul>\n\t<li>Visualisation and the visual cortex</li>\n\t<li>Making information pop</li>\n\t<li>Using color</li>\n</ul>\n",
+    "displayTitle": "Visualisation theory",
+    "title": "Visualisation theory",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b2ce7ce396ef981f39ea9c",
+    "_layout": "full",
+    "_parentId": "57b2ce74e396ef981f39ea9b",
+    "_type": "component",
+    "body": "<p>The ODI&#39;s Dr David Tarrant explains how to create a data visualisation that appeals directly to our cognitive processes.&nbsp;</p>\n",
+    "displayTitle": "Visualisation theory in 2 minutes",
+    "title": "Visualisation theory in 2 minutes",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "57b2cfa2e396ef981f39ea9e",
+    "_layout": "left",
+    "_parentId": "57b2cf92e396ef981f39ea9d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7368ae8933843b3e227c04c8023a3367fc5b8bf2.jpg",
+      "small": "course/en/assets/7368ae8933843b3e227c04c8023a3367fc5b8bf2.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b2d0f0e396ef981f39eaa6",
+    "_layout": "right",
+    "_parentId": "57b2cf92e396ef981f39ea9d",
+    "_type": "component",
+    "body": "<p>Using a technique called &#39;pop-out&#39;&nbsp;helps direct the eye to the correct place. The dorsal stream reacts quickly to patterns and/or significant differences presented visually.</p>\n\n<p>Pop-out works best when a combination of different visual cues are used in combination, eg colour, size and line thickness.</p>\n\n<p>In the case here a combination or colour and thickness guide the eye towards the steepest line. This line represents the first high-speed train from Paris to Lyon. The steepness of the line is the speed.</p>\n",
+    "displayTitle": "Making information pop",
+    "title": "Making information pop",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b2d16be396ef981f39eaa9",
+    "_layout": "left",
+    "_parentId": "57b2d143e396ef981f39eaa7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "How fast is pop out?",
+    "title": "How fast is pop out?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "hotgraphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the odd one out!",
+    "_graphic": {
+      "src": "course/en/assets/88ba7d9a1e23f90d90c00e324d52ea8156e7337b.jpeg",
+      "alt": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": []
+  },
+  {
+    "_id": "57b2d6a7e396ef981f39eab0",
+    "_layout": "right",
+    "_parentId": "57b2d143e396ef981f39eaa7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "&nbsp;",
+    "title": "&nbsp;",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "hotgraphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "Click the odd one out!",
+    "_graphic": {
+      "src": "course/en/assets/33d031e8e0dd609b862126d7230be817cd4b04ec.jpeg",
+      "alt": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": []
+  },
+  {
+    "_id": "57b2e345e396ef981f39eac4",
+    "_layout": "right",
+    "_parentId": "57b2e334e396ef981f39eac2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b2e342e396ef981f39eac3",
+    "_layout": "left",
+    "_parentId": "57b2e334e396ef981f39eac2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to put theory into practice?",
+    "title": "Are you ready to put theory into practice?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b2e419e396ef981f39eaca",
+    "_layout": "right",
+    "_parentId": "57b2e38ae396ef981f39eac8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ad6dcf89e1ab1f064b9c6869a69d025cc5f80922.jpg",
+      "small": "course/en/assets/ad6dcf89e1ab1f064b9c6869a69d025cc5f80922.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b2e5a6e396ef981f39ead4",
+    "_layout": "left",
+    "_parentId": "57b2e599e396ef981f39ead3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/33d031e8e0dd609b862126d7230be817cd4b04ec.jpeg",
+      "small": "course/en/assets/33d031e8e0dd609b862126d7230be817cd4b04ec.jpeg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c199f2c8c479d7402de28e",
+    "_layout": "left",
+    "_parentId": "57c1992cc8c479d7402de283",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "TODO: Filtering data",
+    "title": "TODO: Filtering data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac61bce396ef981f39e96c",
+    "_layout": "right",
+    "_parentId": "57ac619ee396ef981f39e96a",
+    "_type": "component",
+    "body": "<p>In what way&nbsp;does the visualisation here attempt to mislead the viewer?</p>\n",
+    "displayTitle": "Identify the deception!",
+    "title": "Identify the deception!",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Doesn't add up to 100%",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Incorrectly labelled",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Radius/area failure",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! The values add up to 100% however the labels for the two largest values have been swapped over!&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that? The values add up to 100% however the labels for the two largest values have been swapped over!&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57ac62e9e396ef981f39e97c",
+    "_layout": "left",
+    "_parentId": "57ac62d4e396ef981f39e97a",
+    "_type": "component",
+    "body": "<p>Is the chart shown here an area or stacked area chart?</p>\n",
+    "displayTitle": "What type of chart?",
+    "title": "What type of chart?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Area",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Stacked area",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "No way to tell",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! Without additional information it is impossible to tell which type of chart this is.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that? Without additional information it is impossible to tell which type of chart this is.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57ac6456e396ef981f39e98e",
+    "_layout": "left",
+    "_parentId": "57ac6439e396ef981f39e98c",
+    "_type": "component",
+    "body": "<p>Many data visualisations are made to communicate a certain message and will stop at nothing to do this, even if it means adding distortion or deception.</p>\n\n<p>This module looked at the key techniques used and examined how to avoid being deceived.&nbsp;</p>\n\n<p>Why not test your knowledge further and examine more examples at&nbsp;<a href=\"http://viz.wtf/\" target=\"_blank\">viz.wtf</a></p>\n",
+    "displayTitle": "Have you been deceived?",
+    "title": "Have you been deceived?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac6549e396ef981f39e99e",
+    "_layout": "left",
+    "_parentId": "57ac6539e396ef981f39e99d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/79260f52df72950115c0470071792635bcf94e61.png",
+      "small": "course/en/assets/79260f52df72950115c0470071792635bcf94e61.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac5c2be396ef981f39e950",
+    "_layout": "full",
+    "_parentId": "57ac5c0de396ef981f39e94d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "The link between Data Journalism and Data Science ",
+    "title": "The link between Data Journalism and Data Science ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more",
+    "mobileInstruction": "Select the + sign to explore further then swipe the image to scroll",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p dir=\"ltr\"><em>&#39;Data-driven journalism is the future. Journalists need to be data-savvy. It used to be that you would get stories by chatting to people in bars, and it still might be that you&rsquo;ll do it that way sometimes. But now it&rsquo;s also going to be about poring over data and equipping yourself with the tools to analyze it and picking out what&rsquo;s interesting. And keeping it in perspective, helping people out by really seeing where it all fits together, and what&rsquo;s going on in the country.&#39;</em></p>\n\n<p dir=\"ltr\">&mdash; Tim Berners-Lee, founder of the World Wide Web</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+          "alt": ""
+        },
+        "strapline": "This doesn't show "
+      },
+      {
+        "title": "Why Data Journalists need to be more data-savvy?",
+        "body": "<p>Easy access to information has shortened our own attention spans in one particular area, making it more challenging to capture the attention of the public. Journalists are competing with digital marketers in a modern cutthroat world to be the next big news story, and both professions can feel undermined by the influence of amateur reporting, especially as there is not always a clear way to predict what will capture the public&#39;s interest across the web. For example there was an interesting example recently of a live video of a puddle from a local council that went viral.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
+          "alt": ""
+        },
+        "strapline": "http://www.chroniclelive.co.uk/news/north-east-news/drummondpuddlewatch-jesmond-puddle-goes-viral-10696314"
+      },
+      {
+        "title": "Data scientists and data journalists need each others skills",
+        "body": "<p dir=\"ltr\">The knowledge of a journalist in how to broadcast and communicate insight is essential to being about actual change, but&nbsp;the role of a journalist is changing to become more investigative, bringing about the need to know more than just how to broadcast a story.</p>\n\n<p dir=\"ltr\">A data journalist needs the skills of a data scientist to help them analyse the data and discover insight that means they can create and interpret news stories in a way best suited for their audience.&nbsp;Those in each profession should look at expanding their skills and working more closely together.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+          "alt": ""
+        },
+        "strapline": "world-in-hands"
+      }
+    ]
+  },
+  {
+    "_id": "57ac65d3e396ef981f39e9ac",
+    "_layout": "right",
+    "_parentId": "57ac6539e396ef981f39e99d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac66aee396ef981f39e9ae",
+    "_layout": "left",
+    "_parentId": "57ac65e0e396ef981f39e9ad",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">You cannot mention any good data science story without mentioning Hans Rosling. His Gapminder Foundation has been collecting and analysing world statistical data in order to accurately report on the future of the human population and its impact on our&nbsp;planet. His research focuses on&nbsp;population growth and the exponential growth curve.</p>\n\n<p dir=\"ltr\">In the last generation the population has gone from 3 to 7 billion. But will it continue to grow? And will saving poor children lead to overpopulation?</p>\n\n<p dir=\"ltr\">Hans Rosling has the answer and he doesn&rsquo;t need a flashy visualisation to communicate it effectively.</p>\n\n<p dir=\"ltr\">http://www.gapminder.org/videos/will-saving-poor-children-lead-to-overpopulation/</p>\n",
+    "displayTitle": "Data Science - Hans Rosling: Making Data Cool",
+    "title": "Data Science - Hans Rosling: Making Data Cool",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac66b2e396ef981f39e9af",
+    "_layout": "right",
+    "_parentId": "57ac65e0e396ef981f39e9ad",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ee5dc8c8ab287352350e142488638117e92334ea.png",
+      "small": "course/en/assets/ee5dc8c8ab287352350e142488638117e92334ea.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac7ddee396ef981f39e9b5",
+    "_layout": "right",
+    "_parentId": "57ac7dcbe396ef981f39e9b3",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Many countries have a strong mandate and focus on publishing open data. This means that anyone can analyse the data to discover insight. In this particular instance the Open Data Institute worked with Mastadon C to analyse newly available prescription data to identify potential cost savings.</p>\n\n<p dir=\"ltr\">The study looked at one particular class of drugs (statins) in which all drugs from this class are scientifically proven to be equally safe and effective. The analysis examined how much money was spent in each area of the UK on the more expensive drugs by looking at a large prescriptions dataset (37 million rows of data). The result in one class was a finding that over &pound;200m could have been saved in this one class alone in just a year.</p>\n\n<p dir=\"ltr\">You can explore the data and results for yourself at <a href=\"http://www.prescribinganalytics.com/\">http://www.prescribinganalytics.com/</a>.</p>\n",
+    "displayTitle": "Data Science example - Open Data reveals £200m saving for Health Service",
+    "title": "Data Science example - Open Data reveals £200m saving for Health Service",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac7dd8e396ef981f39e9b4",
+    "_layout": "left",
+    "_parentId": "57ac7dcbe396ef981f39e9b3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5f8ac0dda1f5e72a779e66efc3678304cda055bc.png",
+      "small": "course/en/assets/5f8ac0dda1f5e72a779e66efc3678304cda055bc.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac7feae396ef981f39e9bc",
+    "_layout": "left",
+    "_parentId": "57ac7fdbe396ef981f39e9ba",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Even the president of the United States of America knows that the data can tell powerful stories. During an <a href=\"http://www.abc.net.au/news/2015-10-02/shooting-at-umpqua-community-college-oregon/6821828\">impassioned speech in response to a mass shooting in Oregon</a>, US president Barack Obama asked news organisations to publish data comparing gun deaths and terrorism deaths in the US.</p>\n\n<p dir=\"ltr\">&quot;I would ask news organisations ... [to] tally up the number of Americans who have been killed through terrorist attacks over the last decade and the number of Americans who have been killed by gun violence,&quot;</p>\n\n<p dir=\"ltr\">You do this and you come up with this graph (total to September 2015).</p>\n",
+    "displayTitle": "Mass shootings vs Terrorism deaths to US Citizens",
+    "title": "Mass shootings vs Terrorism deaths to US Citizens",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac7fe7e396ef981f39e9bb",
+    "_layout": "right",
+    "_parentId": "57ac7fdbe396ef981f39e9ba",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/716ff45483d4a5f7105e0cdc35db1a5044e34120.png",
+      "small": "course/en/assets/716ff45483d4a5f7105e0cdc35db1a5044e34120.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac8180e396ef981f39e9c1",
+    "_layout": "right",
+    "_parentId": "57ac8152e396ef981f39e9c0",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">An early example in Europe is Florence Nightingale and her key report, &lsquo;Mortality of the British Army&rsquo;, published in 1858. In her report to the parliament she used graphics to advocate improvements in health services for the British army. The most famous is her &lsquo;coxcomb&rsquo; - a spiral of sections, each representing deaths per month, which highlighted that the vast majority of deaths were from preventable diseases rather than bullets.</p>\n",
+    "displayTitle": "Mortality of the British Army",
+    "title": "Mortality of the British Army",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac8184e396ef981f39e9c2",
+    "_layout": "left",
+    "_parentId": "57ac8152e396ef981f39e9c0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1f04f2be8a4b3b6dfc142ddc44c4fdc43f841689.png",
+      "small": "course/en/assets/1f04f2be8a4b3b6dfc142ddc44c4fdc43f841689.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac8273e396ef981f39e9c8",
+    "_layout": "left",
+    "_parentId": "57ac825ee396ef981f39e9c6",
+    "_type": "component",
+    "body": "<p>Next is three questions to test what you have learnt.</p>\n",
+    "displayTitle": "Are you ready to be a Data Journalist?",
+    "title": "Are you ready to be a Data Journalist?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "section-banner",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac826ee396ef981f39e9c7",
+    "_layout": "right",
+    "_parentId": "57ac825ee396ef981f39e9c6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac8364e396ef981f39e9ce",
+    "_layout": "left",
+    "_parentId": "57ac8324e396ef981f39e9cb",
+    "_type": "component",
+    "body": "<p>Data journalism is...</p>\n",
+    "displayTitle": "What is Data Journalism?",
+    "title": "What is Data Journalism?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose one answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "where data is involved to tell a story ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "where the topic of the story only references open data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "when a journalist is also a data scientist ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!&nbsp;For a journalist, it is anything where data is involved and for a data worker, it is where you tell stories.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?&nbsp;For a journalist, it is anything where data is involved and for a data worker, it is where you tell stories.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57ac8347e396ef981f39e9cd",
+    "_layout": "right",
+    "_parentId": "57ac8324e396ef981f39e9cb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c943de1cc82e40d1505e77ce98ba5ec0d68ba4ef.jpg",
+      "small": "course/en/assets/c943de1cc82e40d1505e77ce98ba5ec0d68ba4ef.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57ac5065e396ef981f39e92e",
+    "_layout": "full",
+    "_parentId": "57ac5051e396ef981f39e92d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "57adb11ee396ef981f39e9d8",
+    "_layout": "left",
+    "_parentId": "57adb0cce396ef981f39e9d6",
+    "_type": "component",
+    "body": "<p>In this module we are going to cover:</p>\n\n<ul>\n\t<li>The goal of data visualisation</li>\n\t<li>A brief history of data visualisation</li>\n\t<li>Communicating&nbsp;with numbers</li>\n\t<li>Charts and distributions</li>\n\t<li>Visualisising data on a map</li>\n</ul>\n",
+    "displayTitle": "Introduction to data visualisation",
+    "title": "Introduction to data visualisation",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57adb119e396ef981f39e9d7",
+    "_layout": "right",
+    "_parentId": "57adb0cce396ef981f39e9d6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57adb983e396ef981f39e9dd",
+    "_layout": "full",
+    "_parentId": "57adb1afe396ef981f39e9db",
+    "_type": "component",
+    "body": "<p>Presenting information visually significantly reduces the amount of time needed to communicate findings. However data visualisation can also be used to enhance understanding in the case where there is no clear message to be communicated. Explore each of these goals below.&nbsp;&nbsp;</p>\n",
+    "displayTitle": "The goal of data visualisation",
+    "title": "The goal of data visualisation",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Communication",
+        "body": "<p>Powerful messages need a simple way to communicate them. Bar charts, pie charts and big clear numbers are a very effective way to communicate.</p>\n\n<p>Other effective methods use large visuals and introduce figures that may help people relate to the story (eg stick figures could be added to represent the number of people with the visual here).</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/18738e0898ac8f711ed72e3be0a1bfe45e5c7aaa.jpg",
+          "alt": ""
+        },
+        "strapline": "Clear communcation"
+      },
+      {
+        "title": "Understanding",
+        "body": "<p>Sometimes there can be multiple stories or points of interest. This often leads to a more complex visualisation where a greater level of engagement is required to reach understanding.</p>\n\n<p>Commonly such visualisations will present multiple dimensions of data. This makes a clear message hard to spot. Additionally, this means there is a chance that each viewer could come to a different conclusion depending on their own background and connection to the story.</p>\n\n<p>As a tip, never try and present one clear message with a multi-dimensional and complex visualisation.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/9c6620e9e0b81c6cfa582c5346798f88dc1fa392.jpg",
+          "alt": ""
+        },
+        "strapline": "Communication for understanding"
+      }
+    ]
+  },
+  {
+    "_id": "57adbb04e396ef981f39e9e4",
+    "_layout": "right",
+    "_parentId": "57adbaefe396ef981f39e9e2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d0d27cb926ed6ebfc46c7f07bfbc957de18ad130.png",
+      "small": "course/en/assets/d0d27cb926ed6ebfc46c7f07bfbc957de18ad130.png",
+      "attribution": "William Playfair"
+    }
+  },
+  {
+    "_id": "57adbaffe396ef981f39e9e3",
+    "_layout": "left",
+    "_parentId": "57adbaefe396ef981f39e9e2",
+    "_type": "component",
+    "body": "<p>Most of the charts used today in data visualisation among virtually all of the social sciences (economics included&ndash;you can&rsquo;t get out of it this time) derive from the original design of&nbsp;<a href=\"http://en.wikipedia.org/wiki/William_Playfair\" rel=\"wikipedia\" title=\"William Playfair\">William Playfair</a>&nbsp;(1759-1823), a political economist.</p>\n\n<p>In the 1790&rsquo;s, as people got wind of his pioneering work, they accused him of lie-telling and fabricating his data. &nbsp;The academe, acclimated to the traditional tabular graph&nbsp;resisted his innovations for around&nbsp;150 years.</p>\n\n<p>William Playfair invented several types of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Information_graphics\" title=\"Information graphics\">diagrams</a>: in 1786 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Line_chart\" title=\"Line chart\">line</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Area_chart\" title=\"Area chart\">area</a>&nbsp;and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Bar_chart\" title=\"Bar chart\">bar chart</a>&nbsp;of economic data, and in 1801 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Pie_chart\" title=\"Pie chart\">pie chart</a>&nbsp;and circle graph, used to show part-whole relations.</p>\n",
+    "displayTitle": "A brief history of data visualisation",
+    "title": "A brief history of data visualisation",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57adbc9de396ef981f39e9ea",
+    "_layout": "left",
+    "_parentId": "57adbc93e396ef981f39e9e9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/53491f341e7c73e24e6fb75a356bc6e979fcc99c.jpg",
+      "small": "course/en/assets/53491f341e7c73e24e6fb75a356bc6e979fcc99c.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57adbca1e396ef981f39e9eb",
+    "_layout": "right",
+    "_parentId": "57adbc93e396ef981f39e9e9",
+    "_type": "component",
+    "body": "<p>Rather than a graph, presenting a story simply using numbers can be very effective. Big numbers like $60bn are unimaginably big for most people and create high impact. Small numbers can be presented in a large print in order to appear &#39;big&#39;.</p>\n\n<p>Other tricks with numbers involve comparators (shown here), translating numbers to percentages, or looking at multipliers. For example if the chance of something happening (eg winning the lottery) has gone from 1 in 1,000,000 people to 2 in 1,000,000 people, then it has&nbsp;<strong>doubled!</strong></p>\n",
+    "displayTitle": "Communcating with numbers",
+    "title": "Communicating with numbers",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57adf07ee396ef981f39e9f0",
+    "_layout": "full",
+    "_parentId": "57adf062e396ef981f39e9ef",
+    "_type": "component",
+    "body": "<p>Dr David Tarrant from the Open Data Institute looks at the basic options for visualising data.&nbsp;</p>\n",
+    "displayTitle": "Data visualisation in 2 minutes",
+    "title": "Data visualisation in 2 minutes",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "57adf4c3e396ef981f39e9f9",
+    "_layout": "left",
+    "_parentId": "57adf4b3e396ef981f39e9f8",
+    "_type": "component",
+    "body": "<p>Many datasets are related in some way to locations, thus using a map should seem logical. Care should be taken to create the right type of map and use the right features to direct the reader. For example, a map showing population should use a choropleth map whereas&nbsp;a map plotting 1000 densly clustered points would probably be better as a heat map.</p>\n\n<p>The example shown here details all the empty and unused building in Detroit. Having the map showing all buildings is essential.</p>\n\n<p>Aaron Koblin&#39;s&nbsp;<a href=\"http://www.aaronkoblin.com/work/flightpatterns/\" target=\"_blank\">flight patterns</a>&nbsp;is a good example of a spatial visualisation that doesn&#39;t require an underlying map layer.</p>\n",
+    "displayTitle": "Maps: where things happen is important",
+    "title": "Maps: where things happen is important",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57adf4c7e396ef981f39e9fa",
+    "_layout": "right",
+    "_parentId": "57adf4b3e396ef981f39e9f8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/db69d30968f7a139e2732848eb7d96f2f5edefab.jpg",
+      "small": "course/en/assets/db69d30968f7a139e2732848eb7d96f2f5edefab.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57adf5efe396ef981f39ea04",
+    "_layout": "right",
+    "_parentId": "57adf5bae396ef981f39ea02",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57adf5ece396ef981f39ea03",
+    "_layout": "left",
+    "_parentId": "57adf5bae396ef981f39ea02",
+    "_type": "component",
+    "body": "<p>Check your knowledge with our test.</p>\n",
+    "displayTitle": "Are you ready to visualise data?",
+    "title": "Are you ready to visualise data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57adf6ade396ef981f39ea0b",
+    "_layout": "left",
+    "_parentId": "57adf677e396ef981f39ea0a",
+    "_type": "component",
+    "body": "<p>Communicating impact from data is a key skill of any modern data worker. This module has introduced some of the essential techniques that can help effectively visualise data. Some basic seem basic but it is important to think critically about every detail to ensure that the message is communicated&nbsp;clearly.&nbsp;</p>\n\n<p>In this series there are also modules available&nbsp;on create interactive graphics as well as the theory behind creating a good graphic. Having a knowledge of all three will help you be a better data visualiser.&nbsp;</p>\n",
+    "displayTitle": "Visualisation essentials",
+    "title": "Visualisation essentials",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57adf764e396ef981f39ea0c",
+    "_layout": "right",
+    "_parentId": "57adf677e396ef981f39ea0a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57adf79ce396ef981f39ea14",
+    "_layout": "right",
+    "_parentId": "57adf781e396ef981f39ea12",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57adf798e396ef981f39ea13",
+    "_layout": "left",
+    "_parentId": "57adf781e396ef981f39ea12",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/79260f52df72950115c0470071792635bcf94e61.png",
+      "small": "course/en/assets/79260f52df72950115c0470071792635bcf94e61.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57adf11de396ef981f39e9f2",
+    "_layout": "full",
+    "_parentId": "57adf118e396ef981f39e9f1",
+    "_type": "component",
+    "body": "<p>A lot of people would call a bar chart or pie chart basic. However, when used effectively they can tell powerful stories. Find out more below.</p>\n",
+    "displayTitle": "Essential charts",
+    "title": "Essential charts",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Bar charts",
+        "body": "<p>The human brain is very good at quickly judging the size of simple shapes, such as rectangles. Thus the bar chart can very effectively communicate differences.&nbsp;</p>\n\n<p>Simple bar charts can communicate powerful messages quickly.&nbsp;Enhancing bar charts and pie charts with graphics and well placed text can also aid clear understanding. You don&#39;t even always need scales or lines.</p>\n\n<p>Be careful with&nbsp;the example here however. It is&nbsp;comparing the revenue of one product&nbsp;to the total revenue of an entire other company.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/34eb7b4a0a4b7747b9d04b9920aff369a14523cc.jpg",
+          "alt": ""
+        },
+        "strapline": "Bar charts"
+      },
+      {
+        "title": "Line and area charts",
+        "body": "<p>Line and area charts should <strong>only</strong> be used where there is a time series to be displayed. In most cases people read left to right, so this is how people will &quot;read&quot; the chart.</p>\n\n<p>A line chart, as shown here, is best for comparing multiple sets of data over the same (or equivalent) timeframe.</p>\n\n<p>An area chart can be used to emphasise the totals. When using area charts it is best to use a stacked area to clearly show the total of all datasets over the same (or equivalent) period of time.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/de828319078da8466ec5450e1637d5cbe8d35290.png",
+          "alt": ""
+        },
+        "strapline": "Team GB Medal Olympic medal count comparison"
+      },
+      {
+        "title": "Histograms",
+        "body": "<p>Histograms should be used when a set of samples are taken at different points in time. For example, exam grades of different people, or heights as shown here.&nbsp;</p>\n\n<p>A histogram is perfect for showing graphically where the median and mode lay. They also&nbsp;show the distribution (or shape) of the data and surface any outliers that might skew the location of the mean.&nbsp;</p>\n\n<p>Significantly they can reveal if the samples in your dataset are normally distributed, or have any data that might be skewed by gasification and setting of targets.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+          "alt": ""
+        },
+        "strapline": "Histograms"
+      }
+    ]
+  },
+  {
+    "_id": "57ac8a2fe396ef981f39e9d3",
+    "_layout": "right",
+    "_parentId": "57ac8a1be396ef981f39e9d1",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">A data journalist needs the skills of a data scientist to help them analyse the data and discover insight that means they can create and interpret news stories in a way best suited for their audience.</p>\n\n<p dir=\"ltr\">So what is a skill that a data scientist has compared to a data journalist?</p>\n",
+    "displayTitle": "What is an additional skill do data scientists need?",
+    "title": "What is an additional skill do data scientists need?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the correct answer ",
+    "_items": [
+      {
+        "text": "Effective communication ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Understanding complex datasets ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Ablilty to capture the public's interest across the web",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! Compared to a data journalists, data scientists can easily understand and interpret complex data sets.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?&nbsp;Compared to a data journalists, data scientists can easily understand and interpret complex data sets.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57ac8a28e396ef981f39e9d2",
+    "_layout": "left",
+    "_parentId": "57ac8a1be396ef981f39e9d1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+      "small": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b1a463e396ef981f39ea1f",
+    "_layout": "left",
+    "_parentId": "57b1a45be396ef981f39ea1e",
+    "_type": "component",
+    "body": "<p>In Europe,&nbsp;Florence Nightingale&#39;s&nbsp;key report, &lsquo;Mortality of the British Army&rsquo;, published in 1858. The report used graphics to advocate improvements in health services for the British army&nbsp;to show&nbsp;the parliament that the vast majority of deaths were from preventable diseases rather than bullets.</p>\n",
+    "displayTitle": "Is this story an example of reactive or proactive data journalism?",
+    "title": "Is this story an example of reactive or proactive data journalism?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the correct answer",
+    "_items": [
+      {
+        "text": "Proactive",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Reactive",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! This example of Florence Nightingale&#39;s 1858 report&nbsp;&lsquo;Mortality of the British Army&rsquo;, is proactive data journalism as she collected the data herself and displayed it in graphics.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?&nbsp;This example of Florence Nightingale&#39;s 1858 report&nbsp;&lsquo;Mortality of the British Army&rsquo;, is proactive data journalism as she collected the data herself and displayed it in graphics.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b1a465e396ef981f39ea20",
+    "_layout": "right",
+    "_parentId": "57b1a45be396ef981f39ea1e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1f04f2be8a4b3b6dfc142ddc44c4fdc43f841689.png",
+      "small": "course/en/assets/1f04f2be8a4b3b6dfc142ddc44c4fdc43f841689.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b1a801e396ef981f39ea24",
+    "_layout": "left",
+    "_parentId": "57b1a7fce396ef981f39ea23",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><em>Data journalism is another way to scrutinise the world and hold the powers that be to account. With an increasing amount of data available, now more than ever it is important that journalists are of aware of data journalism techniques. This should be a tool in the toolkit of any journalist: whether learning how to work with data directly, or collaborating with someone who can. </em></p>\n\n<p dir=\"ltr\"><em>- &nbsp;Cynthia O&rsquo;Murchu, Financial Times</em></p>\n\n<p dir=\"ltr\">This shows that data scientists and data journalists need to learn skills from each other or work closely to each other in order to create and interpret news stories in a way best suited for their audience. You could argue that proactive data journalists are more similar to data scientists as they collect and interpret&nbsp;the data themselves.&nbsp;</p>\n\n<p dir=\"ltr\">&nbsp;</p>\n",
+    "displayTitle": "Summary ",
+    "title": "Summary ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b1a805e396ef981f39ea25",
+    "_layout": "right",
+    "_parentId": "57b1a7fce396ef981f39ea23",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b1c2a7e396ef981f39ea2b",
+    "_layout": "left",
+    "_parentId": "57b1b369e396ef981f39ea2a",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Data science and data journalism have similar skills requirements. The need to expertly and statistically build models around data and work with experts to clarify the meaning of the finding are all essential parts of both roles.</p>\n\n<p dir=\"ltr\">&nbsp;</p>\n\n<p dir=\"ltr\">In this module we will cover the four step process:&nbsp;</p>\n\n<p dir=\"ltr\">- Data</p>\n\n<p dir=\"ltr\">- Filter&nbsp;</p>\n\n<p dir=\"ltr\">- Visualise</p>\n\n<p dir=\"ltr\">- Story</p>\n",
+    "displayTitle": "What is the data jouranlism process?",
+    "title": "What is the data jouranlism process?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b1c2aae396ef981f39ea2c",
+    "_layout": "right",
+    "_parentId": "57b1b369e396ef981f39ea2a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b1c574e396ef981f39ea3a",
+    "_layout": "right",
+    "_parentId": "57b1c558e396ef981f39ea38",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9c6620e9e0b81c6cfa582c5346798f88dc1fa392.jpg",
+      "small": "course/en/assets/9c6620e9e0b81c6cfa582c5346798f88dc1fa392.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b1c570e396ef981f39ea39",
+    "_layout": "left",
+    "_parentId": "57b1c558e396ef981f39ea38",
+    "_type": "component",
+    "body": "<p>Which type of chart is most preferable for visualising&nbsp;time based data?</p>\n",
+    "displayTitle": "What chart for time series data?",
+    "title": "What chart for time series data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Bar chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Line chart",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Pie chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! A line chart shows clearly the changes between data points over time. You can also overly multiple lines to compare multiple series of data over the same or equivalent times.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?&nbsp;A line chart shows clearly the changes between data points over time. You can also overly multiple lines to compare multiple series of data over the same or equivalent times.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b1c6e1e396ef981f39ea44",
+    "_layout": "left",
+    "_parentId": "57b1c551e396ef981f39ea37",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+      "small": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b1c6e5e396ef981f39ea45",
+    "_layout": "right",
+    "_parentId": "57b1c551e396ef981f39ea37",
+    "_type": "component",
+    "body": "<p>Which of the following charts best shows the distribution of a dataset?</p>\n",
+    "displayTitle": "What chart shows the distribution of data?",
+    "title": "What chart shows the distribution of data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Pie chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Histogram",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Line chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!&nbsp;A histogram clearly shows&nbsp;distribution (or shape) of the data along with clearly showing the locations of the median and mode averages.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?&nbsp;A histogram clearly shows&nbsp;distribution (or shape) of the data along with clearly showing the locations of the median and mode averages.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b1c835e396ef981f39ea4f",
+    "_layout": "right",
+    "_parentId": "57b1c460e396ef981f39ea31",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Rather than a single data scientist, a combination of different skilled people are required in order to create the finished story:</p>\n\n<ul>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">A web developer and designer</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">A lead journalist</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">A part time researcher with expertise in data extraction, excel spreadsheets and data cleaning</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">A part time junior journalist</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">A consultant executive producer</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">A academic consultant with expertise in data mining, graphic visualization and advanced research skills</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">The services of a project manager and administrative assistance</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">Reference group of journalists and others whom we consulted on a needs basis</p>\n\t</li>\n</ul>\n\n<p dir=\"ltr\"><br />\nEach of these roles will be involved at a different stage of the data journalism process, some more than others. Additionally there may be other specific requirements of the project that may mean that more skills are required.</p>\n",
+    "displayTitle": "Who is involved in the process?",
+    "title": "Who is involved in the process?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b1c838e396ef981f39ea50",
+    "_layout": "left",
+    "_parentId": "57b1c460e396ef981f39ea31",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+      "small": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b1c79ee396ef981f39ea4e",
+    "_layout": "full",
+    "_parentId": "57b1c530e396ef981f39ea36",
+    "_type": "component",
+    "body": "<p>Select the type of map you think is best to be a population map?</p>\n",
+    "displayTitle": "Which is best for a population map?",
+    "title": "Which is best for a population map?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "gmcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/ca044aca014a764b789ad1c8c4481eaa0e2ef182.jpg",
+          "small": "course/en/assets/ca044aca014a764b789ad1c8c4481eaa0e2ef182.jpg",
+          "alt": ""
+        },
+        "text": "Bubble map",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/8738ff5125f5aab259d89c8d9f6f1633612fdba1.jpg",
+          "small": "course/en/assets/8738ff5125f5aab259d89c8d9f6f1633612fdba1.jpg",
+          "alt": ""
+        },
+        "text": "Heat map",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/d331a39b5c8ac69538ef90e9183f55e7da0425b1.PNG",
+          "small": "course/en/assets/d331a39b5c8ac69538ef90e9183f55e7da0425b1.PNG",
+          "alt": ""
+        },
+        "text": "Choropleth map",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/c8de917dcf4bcf5139c9667633047442bc193c26.jpg",
+          "small": "course/en/assets/c8de917dcf4bcf5139c9667633047442bc193c26.jpg",
+          "alt": ""
+        },
+        "text": "Point map",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! A Choropleth map&nbsp;is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map, such as population density or per-capita income.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?&nbsp;A Choropleth map&nbsp;is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map, such as population density or per-capita income.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b1c9a9e396ef981f39ea5e",
+    "_layout": "left",
+    "_parentId": "57b1c98ae396ef981f39ea5c",
+    "_type": "component",
+    "body": "<p>As mentioned, some&nbsp;roles may have more input than others. This can be the same for the journalism process.&nbsp;</p>\n\n<p dir=\"ltr\">The data journalism process can be split down into four stages as shown in the figure above. In this figure the size of the bubble shows the value of each item to the public; the influence each can have on the public.</p>\n\n<p dir=\"ltr\">Inversely, as the process progresses, there is a drastic reduction in the size of the output. The visualisation should be simple and concise and on one screen. The filtered data will be a few tables while the raw data could potentially consist of hundreds, thousands or even millions of data points.</p>\n",
+    "displayTitle": "Increasing value",
+    "title": "Increasing value",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b1c9a6e396ef981f39ea5d",
+    "_layout": "right",
+    "_parentId": "57b1c98ae396ef981f39ea5c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/496a1cd413616a447f38bf8676375ca25f076cbd.png",
+      "small": "course/en/assets/496a1cd413616a447f38bf8676375ca25f076cbd.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b1d190e396ef981f39ea7d",
+    "_layout": "full",
+    "_parentId": "57b1d17ee396ef981f39ea7c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "The four step process",
+    "title": "The four step process",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more.",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Step 1: Data",
+        "body": "<p dir=\"ltr\">Some data journalism expeditions may start with data already in place, such as wikileaks, some will start with nothing. Either way it is unlikely that a single set of data will be enough to tell the whole story and you will need to dig up more data.</p>\n\n<p dir=\"ltr\">Datasets, on things like&nbsp;spending and&nbsp;consumption&nbsp;are transactional in nature and vary rarely provide the reference data that allows this data to be properly contextualised.</p>\n\n<p dir=\"ltr\">The key message here is that obtaining some data is likely to be easy, while other data may even require manual collection through a bit more investigation.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/da5970989f77bff99412460d93f2543d87ddc042.png",
+          "alt": ""
+        },
+        "strapline": "Energy usage of 1 Canon Row in London in January 2016"
+      },
+      {
+        "title": "Step 1: Data Example",
+        "body": "<p dir=\"ltr\">Energy usage is a key issue for many people who either want to save money on bills or be kinder to the environment. Getting hold of the data is easy, but try to improve the usage is harder.&nbsp;This is normally due to a lack of reference data outlining issues such as building size, insulation type and window type among many many other factors that affect energy usage in a building.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/da5970989f77bff99412460d93f2543d87ddc042.png",
+          "alt": ""
+        },
+        "strapline": "Energy usage of 1 Canon Row in London in January 2016"
+      },
+      {
+        "title": "Step 2: Filter",
+        "body": "<p dir=\"ltr\">Once data has been gathered it will be necessary to inspect the data, clean up any errors and potential translate the data into a more suitable format. This is all before the data can be reduced down to only the set needed to tell the story.</p>\n\n<p dir=\"ltr\">This is a process that can take a lot of time and has many potential pitfalls, particular when dealing with numbers. For example if you have fuel consumption on cars in different countries, is the consumption all measured in the same units (litres) or is it in gallons.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
+          "alt": ""
+        },
+        "strapline": "Gather Data"
+      },
+      {
+        "title": "Step 3: Visualise ",
+        "body": "<p dir=\"ltr\">With data prepared, visualisation can help with both the understanding of the story as well as with the later communication. But it is essential to be careful not to mix visualising data to reveal understanding and visualising data in order to communicate a story with others.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/b768849a74da5b408dad6bec7646f94e812595d6.png",
+          "alt": ""
+        },
+        "strapline": "Ampp3d"
+      },
+      {
+        "title": "Step 3: Visualise example",
+        "body": "<p>The example here&nbsp;is a simple example of a data visualisation that relates to policy change in the UK proposed by the Conservatives. Here is it the simple sentences and numbers that make the story so effective. The data behind this particular visualisation is not large, but neither does it need to be in some cases.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/b768849a74da5b408dad6bec7646f94e812595d6.png",
+          "alt": ""
+        },
+        "strapline": "Ampp3d"
+      },
+      {
+        "title": "Step 4: Story",
+        "body": "<p dir=\"ltr\">In order to maximise impact of any story, there needs to exist a strong narrative which connects to the largest possible audience at the right time.</p>\n\n<p>It is at this stage that community and collaboration are important. A traditional journalist can help you frame the story, but only other experts can review the story and potentially offer backing and perhaps an official quote.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/d3a0e532a4963d346259dd7f148473548788c999.jpg",
+          "alt": ""
+        },
+        "strapline": "https://www.flickr.com/photos/davedugdale/"
+      }
+    ]
+  },
+  {
+    "_id": "57b2c549e396ef981f39ea94",
+    "_layout": "full",
+    "_parentId": "57b2c540e396ef981f39ea93",
+    "_type": "component",
+    "body": "<p>The human brain has been specifically designed to help us instantly process and re-act to what we see. Understanding how the visual cortex works is essential when creating powerful visualisations of data.</p>\n",
+    "displayTitle": "Visualisation and the visual cortex",
+    "title": "Visualisation and the visual cortex",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to find out how.",
+    "mobileInstruction": "Click the forward arrow to find out how.",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The human eye",
+        "body": "<p>The human eye, along with the visual cortex is capable of processing trillions of points of information simultaneously.</p>\n\n<p>The human eye is very sensitive to detail. It can instantly re-focus on objects at different distances. It can also instantly change the amount of light that enters the eye in order to deal with high and low light&nbsp;levels.&nbsp;&nbsp;</p>\n\n<p>Technologies such as <a href=\"https://en.wikipedia.org/wiki/Light-field_camera\">Light Field</a> cameras and <a href=\"https://en.wikipedia.org/wiki/High-dynamic-range_imaging\">High Dynamic Range</a>&nbsp;that offer capabilities to capture a level of detail similar to the eye are beginning to emerge, but have taken thousands of years longer than the eye.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/d2445a55c3baba4530ca53aef667079d65b9b497.jpg",
+          "alt": ""
+        },
+        "strapline": "The human eye"
+      },
+      {
+        "title": "The visual cortex",
+        "body": "<p>After light has entered the eye that information is passed to the visual cortex for processing. This information is then split by the occipital lobe&nbsp;to be processed in parallel by the dorsal and ventral streams.&nbsp;</p>\n\n<p>These two pathways have very different jobs and understanding each is the key to effective data visualisation.&nbsp;</p>\n\n<p><strong>Dorsal Stream:&nbsp;</strong>The where/how path<br />\n<strong>Ventral Stream:&nbsp;</strong>The what pathway</p>\n\n<p>&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/1949700df360ddc39b5615e5a066c8e8a1033bef.jpg",
+          "alt": ""
+        },
+        "strapline": "The visual cortex"
+      },
+      {
+        "title": "Fast path visualisation",
+        "body": "<p>The dorsal stream is the fast pathway in the visual cortex. It is responsible for recognising where things are and how they are going to affect you.</p>\n\n<p>For example, if someone throws something at you unexpectedly, it&#39;s the dorsal stream that will react to either help defend you; you act without thinking.</p>\n\n<p>We can use the same trick in data visualisation to make information pop without needed to rely on the ventral stream to work out what that information is first.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/07180bf18edb8db8c6637557fe886b9d4bf90c14.gif",
+          "alt": ""
+        },
+        "strapline": "3D illusion"
+      }
+    ]
+  },
+  {
+    "_id": "57b2e23ee396ef981f39eabe",
+    "_layout": "full",
+    "_parentId": "57b2e232e396ef981f39eabd",
+    "_type": "component",
+    "body": "<p>Careful use of colour is essential and can not only help with &#39;pop-out&#39; but also to convey meaning.</p>\n",
+    "displayTitle": "Using colour",
+    "title": "Using colour",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to find out how.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Colour has meaning",
+        "body": "<p>As well as making information &#39;pop-out&#39; colour also has intrinsic meaning in most countries.&nbsp;</p>\n\n<p>For example&nbsp;red, amber and green represent risk from most dangerous to safest, just like traffic lights.</p>\n\n<p>This scale can go wrong when a fourth level is introduced, e.g. where does&nbsp;blue on the terror levels scale in the US?&nbsp;Keep the potential number of colours down wherever possible.&nbsp;</p>\n\n<p>A good demo of when to stop using too much colour can be found on <a href=\"https://medium.com/@jakeybob/brexit-maps-d70caab7315e#.9rcl0v6a2\">this blog </a>about Brexit.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/38eacb3640bcb9352d696d144a38ad111db88f5c.jpg",
+          "alt": ""
+        },
+        "strapline": "Colour has meaning"
+      },
+      {
+        "title": "One colour",
+        "body": "<p>The human is much more sensitive to changes in a single colour rather than having to handle multiple colours.</p>\n\n<p>This is especially the case in grey scale as the human eye has far more rods (low light receptors for grey&nbsp;scale) than cones (which handle different ranges of colour each). So if you want to make detail clear to the human eye, use grey scale.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/c81f325ec319036d82a74877c300839a4b5fff92.jpeg",
+          "alt": ""
+        },
+        "strapline": "One colour"
+      },
+      {
+        "title": "Picking the right colour",
+        "body": "<p>If you can&#39;t use a grey scale then it is worth carefully considering the colour to use. Special care should be taken with colours that are intense.&nbsp;</p>\n\n<p>Intense colours are those that combine colours of long wavelengths, stimulating a lot of cones in the eye simultaneously.&nbsp;</p>\n\n<p>The most intense colour to the eye is yellow as it combines the red and green receptor cones.&nbsp;</p>\n\n<p>This is also typically who less intense colours such as&nbsp;blue and purple are used a lot withing design. They don&#39;t pop out and are pleasant to look at.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/830a363e47beb192ee84e879a30985e533ae8b6a.jpg",
+          "alt": ""
+        },
+        "strapline": "Picking the right colour"
+      }
+    ]
+  },
+  {
+    "_id": "57b2e417e396ef981f39eac9",
+    "_layout": "left",
+    "_parentId": "57b2e38ae396ef981f39eac8",
+    "_type": "component",
+    "body": "<p>What property of a visual image does the eye and brain process quickest?</p>\n",
+    "displayTitle": "Which is the fastest feature of the eye?",
+    "title": "Which is the fastest feature of the eye?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "'What' things are",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "'Where' things are",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "'Why' things are there",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! The dorsal stream recognises <strong>where</strong> things are very quickly. It helps us avoid obstacles when walking and running.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?&nbsp;The dorsal stream recognises <strong>where</strong> things are very quickly. It helps us avoid obstacles when walking and running.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b2e5a9e396ef981f39ead5",
+    "_layout": "right",
+    "_parentId": "57b2e599e396ef981f39ead3",
+    "_type": "component",
+    "body": "<p>What visual features can you use to make information &#39;pop&#39;</p>\n",
+    "displayTitle": "Making information pop ",
+    "title": "Making information pop ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Colour",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Texture",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Position",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Size",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A combination of all features",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! You can use a single feature to make information pop, however it is best to use a combination of features. For example a thick red line, not just a red line.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?&nbsp;You can use a single feature to make information pop, however it is best to use a combination of features. For example a thick red line, not just a red line.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b2e68fe396ef981f39eada",
+    "_layout": "right",
+    "_parentId": "57b2e66ce396ef981f39ead9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fa1fdff39dd90489ddeac2b8ea7dcb6319d444e6.jpeg",
+      "small": "course/en/assets/fa1fdff39dd90489ddeac2b8ea7dcb6319d444e6.jpeg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b2e698e396ef981f39eadb",
+    "_layout": "left",
+    "_parentId": "57b2e66ce396ef981f39ead9",
+    "_type": "component",
+    "body": "<p>When visualising data, which colour should be used to maximise the visibility of detail?</p>\n",
+    "displayTitle": "Using colour",
+    "title": "Using colour",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Shades of yellow",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Shades of blue",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Shades of grey",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! The eye is far more sensitive to low light, thus many more shades of grey can be seen that any other colour.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?&nbsp;The eye is far more sensitive to low light, thus many more shades of grey can be seen that any other colour.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b2e803e396ef981f39eae2",
+    "_layout": "right",
+    "_parentId": "57b2e7f1e396ef981f39eae0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b2e7ffe396ef981f39eae1",
+    "_layout": "left",
+    "_parentId": "57b2e7f1e396ef981f39eae0",
+    "_type": "component",
+    "body": "<p>Appealing to the visual cortex helps us communicate strong messages through visual representations of data. Using a number of tricks that appeal to the right parts of the visual cortex can also create an instant reaction to the presented information even before the rest of the brain has had a chance to think.</p>\n\n<p>In this module we explored the use of pop-out and colour however you can consider many more features that are not covered in this module such as size, weight, texture and position to name but a few.</p>\n",
+    "displayTitle": "Visual appeal",
+    "title": "Visual appeal",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b2e8d4e396ef981f39eae7",
+    "_layout": "left",
+    "_parentId": "57b2e8c6e396ef981f39eae6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/79260f52df72950115c0470071792635bcf94e61.png",
+      "small": "course/en/assets/79260f52df72950115c0470071792635bcf94e61.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b2e8d8e396ef981f39eae8",
+    "_layout": "right",
+    "_parentId": "57b2e8c6e396ef981f39eae6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57ac5c7ae396ef981f39e952",
+    "_layout": "left",
+    "_parentId": "57ac5c52e396ef981f39e951",
+    "_type": "component",
+    "body": "<p>Try our quiz to see if you can avoid being deceived by data visualisation!&nbsp;</p>\n",
+    "displayTitle": "Can you avoid being deceived?",
+    "title": "Can you avoid being deceived?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b2f681e396ef981f39eaed",
+    "_layout": "right",
+    "_parentId": "57b1e560e396ef981f39ea8b",
+    "_type": "component",
+    "body": "<p>As discussed roles and stages in the data journalism process&nbsp;have different impact to the public then they actually do in the process. This can be described in the 80/20 rule of data:</p>\n\n<p>In any data project you will spend 80% of your time preparing, analysing, cleaning, enriching etc&hellip; and 20% of the time actually producing the output.</p>\n\n<p>This Guardian data blog takes a 70/30 view, but the point remains:&nbsp;https://www.theguardian.com/news/datablog/2011/apr/07/data-journalism-workflow</p>\n",
+    "displayTitle": "The 80/20 rule",
+    "title": "The 80/20 rule",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b2f67de396ef981f39eaec",
+    "_layout": "left",
+    "_parentId": "57b1e560e396ef981f39ea8b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5ba000865e3f97ef6105310284ad0cf546f8c700.jpg",
+      "small": "course/en/assets/c943de1cc82e40d1505e77ce98ba5ec0d68ba4ef.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b30cb3e396ef981f39eaf2",
+    "_layout": "right",
+    "_parentId": "57b30c51e396ef981f39eaf1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b30cb6e396ef981f39eaf3",
+    "_layout": "left",
+    "_parentId": "57b30c51e396ef981f39eaf1",
+    "_type": "component",
+    "body": "<p>There are many different roles, tasks and impacts that emerge from the data journalism process. Can you remember what they are?</p>\n",
+    "displayTitle": "Can you carry out the data journalism process?",
+    "title": "Can you carry out the data journalism process?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b30e56e396ef981f39eaf7",
+    "_layout": "left",
+    "_parentId": "57b30e37e396ef981f39eaf6",
+    "_type": "component",
+    "body": "<p>Rather than a single data scientist, a combination of different skilled people were required in order to create the finished story. Which of the following is likely to be involved?</p>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "Which of these people may be involoved in the data journalism process?",
+    "title": "Which of these people may be involved in the data journalism process?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the one correct answer.",
+    "_items": [
+      {
+        "text": "A coder",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A project manager",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A marketing assistant ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!&nbsp;The services of a project manager and administrative assistance are needed in the data journalism process.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?&nbsp;The services of a project manager and administrative assistance are needed in the data journalism process.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b30e58e396ef981f39eaf8",
+    "_layout": "right",
+    "_parentId": "57b30e37e396ef981f39eaf6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+      "small": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b3138fe396ef981f39eb07",
+    "_layout": "right",
+    "_parentId": "57b3137fe396ef981f39eb05",
+    "_type": "component",
+    "body": "<p>There are 4 main stages of the data journalism process. Data, Filter, Visualise, Story.</p>\n\n<p>What happens in the Filter stage?</p>\n",
+    "displayTitle": "What happens in the Fliter stage?",
+    "title": "What happens in the Filter stage?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the one correct answer.",
+    "_items": [
+      {
+        "text": "Data collected is reduced down",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The irrelevant data is molded to become useful to the story.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Only the numerical data is sorted.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! In the second stage of the data journalism process, the Filter stage,&nbsp;the data can be reduced down to only the set needed to tell the story.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure? In the second stage of the data journalism process, the Filter stage,&nbsp;the data can be reduced down to only the set needed to tell the story.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b3138be396ef981f39eb06",
+    "_layout": "left",
+    "_parentId": "57b3137fe396ef981f39eb05",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
+      "small": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b316b5e396ef981f39eb0c",
+    "_layout": "left",
+    "_parentId": "57b3168ee396ef981f39eb0a",
+    "_type": "component",
+    "body": "<p>The 80/20 rule explains the time spent on doing&nbsp;tasks in the data journalism process. What is 20% of that time used for?</p>\n",
+    "displayTitle": "What is 20% of your time spent doing in the process?",
+    "title": "What is 20% of your time spent doing in the process?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the one correct answer.",
+    "_items": [
+      {
+        "text": "Creating the story",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Collecting the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Actually producing the output",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s correct! According to the 80/20 rule, 20% of the time is spent&nbsp;actually producing the output.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?&nbsp;According to the 80/20 rule, 20% of the time is spent&nbsp;actually producing the output.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b316b1e396ef981f39eb0b",
+    "_layout": "right",
+    "_parentId": "57b3168ee396ef981f39eb0a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5ba000865e3f97ef6105310284ad0cf546f8c700.jpg",
+      "small": "course/en/assets/c943de1cc82e40d1505e77ce98ba5ec0d68ba4ef.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b31842e396ef981f39eb14",
+    "_layout": "left",
+    "_parentId": "57b31832e396ef981f39eb12",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">There is a strong link between data science and data journalism. With everyone now connected to the web and everyone now having some digital and data literacy there is a rapidly growing demand for in-depth and exploratory stories. A modern thirst for knowledge can now be fed with stories that people can explore and learn from at their own pace. For a data scientist, having the ability to effectively communicate and allow others to see the impact of your work is essential, particularly if you would like the credit for it yourself. Additionally, as you spend 80% of your time preparing and visualising data and honing these skills, it would be a waste of time if you didn&rsquo;t also focus on the last 20% skillset that enable you to effectively communicate the story.</p>\n",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b31853e396ef981f39eb15",
+    "_layout": "left",
+    "_parentId": "57b3182fe396ef981f39eb11",
+    "_type": "component",
+    "body": "<p>One of the biggest challenges when working with any data is dealing with errors. Often errors are not even noticed by data publishers because the data can change over many years. In other cases, errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p>\n\n<p>When working with any data, it is important to know how to find errors and correct them to make the data more useful.</p>\n\n<p>In this module we&#39;ll explore the following:</p>\n\n<ul>\n\t<li>Common data errors</li>\n\t<li>Useful data cleaning tools</li>\n\t<li>Reasons for cleaning data</li>\n</ul>\n",
+    "displayTitle": "How to clean your data",
+    "title": "How to clean your data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b3183ee396ef981f39eb13",
+    "_layout": "right",
+    "_parentId": "57b31832e396ef981f39eb12",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b31857e396ef981f39eb16",
+    "_layout": "right",
+    "_parentId": "57b3182fe396ef981f39eb11",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b3189ee396ef981f39eb1e",
+    "_layout": "full",
+    "_parentId": "57b31889e396ef981f39eb1d",
+    "_type": "component",
+    "body": "<p>ODI Trainer David Tarrant explains why clean open data is important, how to clean open data you find and what tools are available to support you.</p>\n",
+    "displayTitle": "Data cleaning – in 2 minutes",
+    "title": "Data cleaning – in 2 minutes",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129197207",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "57b31907e396ef981f39eb20",
+    "_layout": "left",
+    "_parentId": "57b318fce396ef981f39eb1f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2da5b534acdc8080cc6a818ac4af094a17d30785.jpg",
+      "small": "course/en/assets/2da5b534acdc8080cc6a818ac4af094a17d30785.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b3190be396ef981f39eb21",
+    "_layout": "right",
+    "_parentId": "57b318fce396ef981f39eb1f",
+    "_type": "component",
+    "body": "<p>Knowing that data is clean is important to ensure you have a reliable starting point when working with it and creating new value from it.</p>\n\n<p>Clean data is data that is consistent, free from duplication and ready for machine consumption.</p>\n\n<p>If data is clean, it is easier to combine it with different datasets and gain deeper insights.</p>\n",
+    "displayTitle": "Revealing the value: what do we mean by clean data?",
+    "title": "Revealing the value: what do we mean by clean data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b319cce396ef981f39eb28",
+    "_layout": "right",
+    "_parentId": "57b319a1e396ef981f39eb26",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae0541d37bc892cc4b6b2ae323d3cc05d21ef6b4.jpg",
+      "small": "course/en/assets/ae0541d37bc892cc4b6b2ae323d3cc05d21ef6b4.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b319cae396ef981f39eb27",
+    "_layout": "left",
+    "_parentId": "57b319a1e396ef981f39eb26",
+    "_type": "component",
+    "body": "<p>There are a number of common errors in data that you should look out for in any dataset you are working with.</p>\n",
+    "displayTitle": "Common errors in data",
+    "title": "Common errors in data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the headings to explore further.",
+    "_items": [
+      {
+        "title": "Wrong date formats",
+        "body": "<p>Dates can be written in inconsistent ways. Mixed date formats are sometimes simple to spot:<br />\n<br />\n8-sep-2013 vs 8/9/2013<br />\n<br />\nand sometimes less obvious:<br />\n<br />\n8/9/2013 vs 9/8/2013.<br />\n<br />\nAnother challenge is that some applications, like Excel, will &lsquo;guess&rsquo; the format when a dataset is opened, which can hide how dates are actually written in the file.</p>\n\n<p>The most common error is the mixed use of American (MM/DD/YYYY) and European (DD/MM/YYYY) formats.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Multiple representations",
+        "body": "<p>People often try to save time when entering data by abbreviating terms. If these abbreviations are not consistent, it can cause errors in the dataset.</p>\n\n<p>Differences in capitalisation, spacing and genders of adjectives can all cause errors.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Duplicate records",
+        "body": "<p>A duplicate record is where the same piece of data has been entered more than once. Duplicate records often occur when datasets have been combined or because it was not known there was already an entry.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Redundant data",
+        "body": "<p>Redundant data is anything that is not relevant to your work with the dataset. Often a dataset has been created for a specific purpose which requires details you may not need.</p>\n\n<p>Common occurrences of redundant data include rows that represent total amounts.</p>\n\n<p>Other times columns of data have been combined or replicated in order to assist human readability.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Mixed numerical scales",
+        "body": "<p>&nbsp;</p>\n\n<p>Numerical values in datasets often use different scales to make it easier for a human to read. In budget datasets, for example, the units are often in the millions. 1,200,000 often becomes 1.2m. However, smaller amounts like 800,000 are still written in full. For a machine, this means they read the larger figure as 1.2, which causes errors.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Mixed ranges",
+        "body": "<p>Data is sometimes measured in ranges, such as age or salary range. In order for a machine to understand these ranges it is important to separate the high and low values.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Spelling errors",
+        "body": "<p>Spelling errors are often difficult to identify in tabular data.</p>\n\n<p>Don&rsquo;t forget to run your data through a spell-checker to catch spelling errors.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "57b31a7ee396ef981f39eb2e",
+    "_layout": "full",
+    "_parentId": "57b31a70e396ef981f39eb2d",
+    "_type": "component",
+    "body": "<p>Without clean data, we can&rsquo;t build information. There are a number of useful tools that can help the process of cleaning data.</p>\n",
+    "displayTitle": "The data-cleaning toolkit",
+    "title": "The data-cleaning toolkit",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "Click the forward arrow to see more.",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The data-cleaning toolkit",
+        "body": "<p>When you are looking for errors in data, it may be necessary to download and upload datasets in many tools for cleaning and processing.</p>\n\n<p>It is also important to keep a note of what changes have been made and share these openly with others so that everyone can benefit from your work, particularly if the data you are cleaning is existing open data that has been published.</p>\n\n<p>In this section we look at two of the main tools and their uses:</p>\n\n<ul>\n\t<li>Open Refine</li>\n\t<li>Excel and similar spreadsheet programmes</li>\n</ul>\n",
+        "_graphic": {
+          "src": "course/en/assets/33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg",
+          "alt": ""
+        },
+        "strapline": "The data-cleaning toolkit"
+      },
+      {
+        "title": "Open Refine",
+        "body": "<p>Open Refine is a software tool designed to deal with uncleaned data. The tool is a column-based browser that allows you to fix errors across an entire open dataset in a single action. The errors that can be fixed include:</p>\n\n<ul>\n\t<li>Date formats</li>\n\t<li>Multiple representations</li>\n\t<li>Duplicate records</li>\n\t<li>Redundant data</li>\n\t<li>Mixed numerical scales</li>\n\t<li>Mixed ranges</li>\n</ul>\n",
+        "_graphic": {
+          "src": "course/en/assets/14f94f71b66fc8cf7c1f405d8a1fb73e7ffef06d.jpg",
+          "alt": ""
+        },
+        "strapline": "Open Refine home page"
+      },
+      {
+        "title": "Spreadsheet programmes",
+        "body": "<p>Open Refine is a key tool for cleaning data. However, it is sometimes easier to fix some errors in a spreadsheet programme:</p>\n\n<ul>\n\t<li>Spelling errors</li>\n\t<li>Redundant data</li>\n\t<li>Numerical verification</li>\n\t<li>Fixing shifted data</li>\n</ul>\n",
+        "_graphic": {
+          "src": "course/en/assets/8955909579b53c7ebec6ce4d5df18706652bef7a.jpg",
+          "alt": ""
+        },
+        "strapline": "Spreadsheet"
+      }
+    ]
+  },
+  {
+    "_id": "57b31b35e396ef981f39eb36",
+    "_layout": "full",
+    "_parentId": "57b31b1be396ef981f39eb35",
+    "_type": "component",
+    "body": "<p>In addition to the tools that can be used to clean open data, it is important to understand the benefits that cleaning brings.</p>\n",
+    "displayTitle": "What are the benefits of cleaning data?",
+    "title": "What are the benefits of cleaning data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "Click the forward arrow to see more.",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Prioritise cleaning",
+        "body": "<p>If data is not clean then decisions made on the basis of it could be wrong. This can affect products or insights you develop from data and, in some cases, have an impact upon thousands or even millions of people.</p>\n\n<p>A&nbsp;<a href=\"http://www.ercim.eu/publication/ws-proceedings/12th-EDRG/EDRG12_JeDiRe.pdf\" target=\"_blank\">recent study</a>&nbsp;found that the process of preparing data for analysis can take anywhere between 60% and 80% of the time of a data-driven project.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
+          "alt": ""
+        },
+        "strapline": "People network"
+      },
+      {
+        "title": "Enhance usability",
+        "body": "<p>Sharing a clean open dataset will make the data more usable. Tools like Open Refine allow you to share change history, letting people know what has been cleaned and how. Making the process open as well as the data adds to the sustainability and trust a user can put in a dataset.</p>\n\n<p>There are also data-cleaning communities emerging that could be supported more actively, such as OpenStreetMap communities.<br />\n<br />\n<a href=\"http://wiki.openstreetmap.org/wiki/WikiProject_Denmark\" target=\"_blank\">Take me to OSM Denmark Community Wiki</a></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
+          "alt": ""
+        },
+        "strapline": "Connected globe"
+      },
+      {
+        "title": "Discover insights",
+        "body": "<p>Many data-cleaning tools, including Open Refine, help you to combine and enrich datasets. This can lead to valuable insights being discovered.</p>\n\n<p>For example, enriching a dataset that refers to businesses (by name or some other identifier) can inform you if the business is still trading and its current financial position.</p>\n\n<p><a href=\"http://training.theodi.org/resources/odt/Enrichingdata.pdf\" target=\"_blank\">Get started with enriching data.</a></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/2f02baa67a4f8276891c6dd8549dc00678e3abf3.jpg",
+          "alt": ""
+        },
+        "strapline": "Bright idea"
+      }
+    ]
+  },
+  {
+    "_id": "57b31c1fe396ef981f39eb3f",
+    "_layout": "right",
+    "_parentId": "57b31c06e396ef981f39eb3d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "small": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b31c1ce396ef981f39eb3e",
+    "_layout": "left",
+    "_parentId": "57b31c06e396ef981f39eb3d",
+    "_type": "component",
+    "body": "<p>Can you recall the reasons why data needs to be cleaned, the useful tools to use and which common errors you should look for in datasets?</p>\n",
+    "displayTitle": "Are you ready to clean data?",
+    "title": "Are you ready to clean data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b31c78e396ef981f39eb53",
+    "_layout": "right",
+    "_parentId": "57b31c62e396ef981f39eb51",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cb37a73180b59df11864f4753fdf885a658888d4.jpg",
+      "small": "course/en/assets/cb37a73180b59df11864f4753fdf885a658888d4.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b31c75e396ef981f39eb52",
+    "_layout": "left",
+    "_parentId": "57b31c62e396ef981f39eb51",
+    "_type": "component",
+    "body": "<p>Uncleaned open data is a problem because:</p>\n",
+    "displayTitle": "Why does data need to be cleaned?",
+    "title": "Why does data need to be cleaned?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": " it cannot be plotted on a chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "it can lead to wrong conclusions",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": " it cannot be published",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Unclean data is a problem because it can result in the wrong conclusions being made. This should not prevent the publication or use of the data, however cleaning must be performed.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Unclean data is a problem because it can result in the wrong conclusions being made. This should not prevent the publication or use of the data, however cleaning must be performed.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b31d19e396ef981f39eb66",
+    "_layout": "left",
+    "_parentId": "57b31d0fe396ef981f39eb65",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
+      "small": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b31d1de396ef981f39eb67",
+    "_layout": "right",
+    "_parentId": "57b31d0fe396ef981f39eb65",
+    "_type": "component",
+    "body": "<p>Which of these pairs of tools are the most useful for cleaning data?</p>\n",
+    "displayTitle": " What are two of the most useful tools for cleaning data?",
+    "title": " What are two of the most useful tools for cleaning data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Microsoft Access and Adobe Photoshop",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Microsoft Excel and Open Refine",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Apple Notes and Microsoft Word",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Open Refine and Excel (or equivalent spreadsheet editors) are two of the most useful tools for cleaning open data</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Open Refine and Excel (or equivalent spreadsheet editors) are two of the most useful tools for cleaning open data</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b31da0e396ef981f39eb7a",
+    "_layout": "left",
+    "_parentId": "57b31d82e396ef981f39eb79",
+    "_type": "component",
+    "body": "<p>Which of the following are errors in data that require cleaning?</p>\n",
+    "displayTitle": "Recognising errors",
+    "title": "Recognising errors",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose three answers and click 'Submit'",
+    "_items": [
+      {
+        "text": "Mixed numerical scales",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": " Redundant data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Multiple representations",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Lack of granularity",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Lack of licence",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Mixed use of scales, redundant data and multiple representations of the same data are just some of the errors that need to be fixed in unclean data. While the granularity and lack of licence are a problem, they are not related to the data itself being unclean</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Mixed use of scales, redundant data and multiple representations of the same data are just some of the errors that need to be fixed in unclean data. While the granularity and lack of licence are a problem, they are not related to the data itself being unclean</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b31da2e396ef981f39eb7b",
+    "_layout": "right",
+    "_parentId": "57b31d82e396ef981f39eb79",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae0541d37bc892cc4b6b2ae323d3cc05d21ef6b4.jpg",
+      "small": "course/en/assets/ae0541d37bc892cc4b6b2ae323d3cc05d21ef6b4.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b31e30e396ef981f39eb8f",
+    "_layout": "right",
+    "_parentId": "57b31e24e396ef981f39eb8d",
+    "_type": "component",
+    "body": "<p>In any given data-driven project, how much time can be spent cleaning and preparing data?</p>\n",
+    "displayTitle": "How much time can be spent cleaning and preparing data?",
+    "title": "How much time can be spent cleaning and preparing data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Between 20% and 40%",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Between 40% and 60%",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Between 60% and 80%",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Evidence suggests that between 60% and 80% of a data project&#39;s time will be spent cleaning, transforming and preparing data for analysis.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Evidence suggests that between 60% and 80% of a data project&#39;s time will be spent cleaning, transforming and preparing data for analysis.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b31e2de396ef981f39eb8e",
+    "_layout": "left",
+    "_parentId": "57b31e24e396ef981f39eb8d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cb37a73180b59df11864f4753fdf885a658888d4.jpg",
+      "small": "course/en/assets/cb37a73180b59df11864f4753fdf885a658888d4.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b31eb0e396ef981f39eba2",
+    "_layout": "left",
+    "_parentId": "57b31e9fe396ef981f39eba1",
+    "_type": "component",
+    "body": "<p>Data-cleaning is essential to ensure that when the data is used, the right conclusions are made.</p>\n\n<p>Often errors are not even noticed by data publishers because the data can change over many years. Errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p>\n\n<p>Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long-run.</p>\n\n<p>Follow our data cleaning exercise to get started with Open Refine and discover how easy it is for yourself.</p>\n\n<a class='course_link' href='http://training.theodi.org/resources/Cleaning_Exercise.pdf' target='_blank'>Get started with data cleaning in Open Refine</a>\n",
+    "displayTitle": "Cleaning data",
+    "title": "Cleaning data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b31eb3e396ef981f39eba3",
+    "_layout": "right",
+    "_parentId": "57b31e9fe396ef981f39eba1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d1d24b4afcea5906ce1684f8cb3231a3ec0446f6.png",
+      "small": "course/en/assets/d1d24b4afcea5906ce1684f8cb3231a3ec0446f6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b31f60e396ef981f39ebb7",
+    "_layout": "right",
+    "_parentId": "57b31f3ee396ef981f39ebb5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b31f5ae396ef981f39ebb6",
+    "_layout": "left",
+    "_parentId": "57b31f3ee396ef981f39ebb5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/79260f52df72950115c0470071792635bcf94e61.png",
+      "small": "course/en/assets/79260f52df72950115c0470071792635bcf94e61.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b59303e396ef981f39ebcb",
+    "_layout": "left",
+    "_parentId": "57b441b1e396ef981f39ebca",
+    "_type": "component",
+    "body": "<p>This module presents key information that can help a data scientist understand the different options when working with digital property.</p>\n\n<p>&nbsp;</p>\n\n<p>The key topics covered in this module:&nbsp;</p>\n\n<p>- Public Domain</p>\n\n<p>- Open Licences&nbsp;</p>\n\n<p>- Copyright exceptions&nbsp;&nbsp;</p>\n",
+    "displayTitle": "Data Journalism and the Law ",
+    "title": "Data Journalism and the Law ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b59306e396ef981f39ebcc",
+    "_layout": "right",
+    "_parentId": "57b441b1e396ef981f39ebca",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b5c256c71a1cc67f4ee73d",
+    "_layout": "left",
+    "_parentId": "57b59791e396ef981f39ebd4",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Public domain licences remove copyright altogether. Public domain licences thus permit anyone to do anything with the content, even claim ownership. Public domain licences are thus the most permissive and remove all owners rights. In some cases these licences are used when the creator recognises that the content will have more value if more people can freely use it.</p>\n\n<p dir=\"ltr\">A good example of this exists with the many Google/Alphabet research experiments. After an amount of time, each project is reviewed for adoption by the commercial company Google. However if no commercial interest can be seen for Google, then in many cases the project is then put in the public domain and others can see if they are interested.</p>\n",
+    "displayTitle": " Public Domain Licences",
+    "title": " Public Domain Licences",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b5c266c71a1cc67f4ee73e",
+    "_layout": "right",
+    "_parentId": "57b59791e396ef981f39ebd4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
+      "small": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b5c311c71a1cc67f4ee741",
+    "_layout": "right",
+    "_parentId": "57b59bb2e396ef981f39ebdb",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">There are two public domain licences available under the creative commons licence set. CC0 (zero) and the Public Domain Mark.</p>\n",
+    "displayTitle": "The Public Domain Licences",
+    "title": "The Public Domain Licences",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "CC0 Licence ",
+        "body": "<p dir=\"ltr\">The CC0 licence allows creators of works to place those works in the public domain, removing their rights entirely. This licence can only be applied by the copyright holder.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Public Domain Mark",
+        "body": "<p dir=\"ltr\">The Public Domain Mark is very similar to the CC0 licence except that it it can be retrospectively applied to works that are already known to be public domain, either by previous licence or intent. This mark is most often applied by third parties to works where copyright has expired, or the creator is no longer able to place a CC0 licence on the works.</p>\n\n<p dir=\"ltr\">For example, a library or archive could choose to place a Public Domain Mark on old, out of copyright books.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "57b5c316c71a1cc67f4ee742",
+    "_layout": "left",
+    "_parentId": "57b59bb2e396ef981f39ebdb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2da5b534acdc8080cc6a818ac4af094a17d30785.jpg",
+      "small": "course/en/assets/2da5b534acdc8080cc6a818ac4af094a17d30785.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b5c53fc71a1cc67f4ee748",
+    "_layout": "full",
+    "_parentId": "57b5c4e4c71a1cc67f4ee747",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Here the word &#39;open&#39; is used to describe any works that is licences such that <strong>anyone is free to use, modify and share the content, even for commercial gain.</strong> In the creative commons suite of licences these licences are classed as those which promote &ldquo;free cultural works&rdquo;. In both cases the word free does not necessarily mean &ldquo;no cost&rdquo;, rather it means &ldquo;free speech&rdquo;. Once the user has a copy of the work, they can use it in any way they wish without the bounds of the law.</p>\n\n<p dir=\"ltr\">In addition to the public domain licences, there are two free cultural licences that can be placed upon works, click on the arrows to find out more.</p>\n",
+    "displayTitle": "Open Licences ",
+    "title": "Open Licences ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more.",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "CC-BY (The Attribution Licence)",
+        "body": "<p dir=\"ltr\">This licence enforces the restriction that any user of the content MUST attribute the source of the works.&nbsp;</p>\n\n<p dir=\"ltr\">The&nbsp;CC-BY licence grants the user permission to use the work, but does not grant them rights over the work. The user cannot claim any sort of ownership or credit for the works creation.</p>\n\n<p dir=\"ltr\">Example of this licence applied include the UK Government who use this licence (renamed Open Government Licence) on all of their data.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/d7a00ecc61a77891583a41ad5d6b4f88f499f67c.jpg",
+          "alt": ""
+        },
+        "strapline": "https://www.flickr.com/photos/kalexanderson/"
+      },
+      {
+        "title": "CC-BY-SA (The Viral Licence)",
+        "body": "<p dir=\"ltr\">The viral licence builds upon the attribution licence but&nbsp;any and all subsequent modifications MUST also be shared with everyone to use.</p>\n\n<p dir=\"ltr\">Some would see this as a&nbsp;burden and restriction in use.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/cb37a73180b59df11864f4753fdf885a658888d4.jpg",
+          "alt": ""
+        },
+        "strapline": "sharing "
+      },
+      {
+        "title": "Example of company using Open Licence ",
+        "body": "<p dir=\"ltr\">An interesting example of this lies with the UK company Open Corporates.</p>\n\n<p dir=\"ltr\">If you don&rsquo;t want to pay to access the Open Corporates data, then you register for a service key and receive this alongside a viral licence (CC-BY-SA). Thus anything enhancement or modification you make to the Open Corporates data, you MUST share back with the world under the same or equivalent licence.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+          "alt": ""
+        },
+        "strapline": "open"
+      }
+    ]
+  },
+  {
+    "_id": "57b5cd87c71a1cc67f4ee74e",
+    "_layout": "left",
+    "_parentId": "57b5ccbcc71a1cc67f4ee74d",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Copyright exceptions allow for the usage of copyrighted material in certain, limited ways without needed to seek permission or licence from the author to do so. Unlike global licences, exceptions vary around the world. Additionally, the exceptions have to be written into law and these can be subject to rapid change. This has been especially the case since the growth of digital property which can easily be replicated millions of times.</p>\n",
+    "displayTitle": "Copyright Exceptions",
+    "title": "Copyright Exceptions",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b5cd8bc71a1cc67f4ee74f",
+    "_layout": "right",
+    "_parentId": "57b5ccbcc71a1cc67f4ee74d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/bd1992e87608079dd42e20ca9ce7eae233ca50dc.jpg",
+      "small": "course/en/assets/bd1992e87608079dd42e20ca9ce7eae233ca50dc.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b5cdd3c71a1cc67f4ee754",
+    "_layout": "right",
+    "_parentId": "57b5cdc5c71a1cc67f4ee752",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">For a practicing data scientist there are a number of copyright exceptions which can assist in the usage of third party copyright protected data. These expectations are known as the &ldquo;fair use&rdquo; or &ldquo;fair dealing&rdquo; rights and cover aspects such as (but not limited to):</p>\n\n<p dir=\"ltr\">&middot; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;research and private study (both must be non-commercial)</p>\n\n<p dir=\"ltr\">&middot; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;criticism / review / quotation, and news reporting</p>\n\n<p dir=\"ltr\">&middot; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;parody, caricature and pastiche</p>\n\n<p dir=\"ltr\">&middot; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;illustration for teaching</p>\n\n<p dir=\"ltr\">In all instances of fair use, there are provisions to protect authors against users replicating and distributing the whole works and claiming &ldquo;fair use&rdquo;. An easy way to think about this is that you can criticise a book in the press, thus having a potential negative impact on sales, however you cannot replicate the exact plot of the book in a press article. This would be classified as a copyright infringement and not reporting.</p>\n",
+    "displayTitle": "Copyright Exceptions - Fair use",
+    "title": "Copyright Exceptions - Fair use",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b5cdcec71a1cc67f4ee753",
+    "_layout": "left",
+    "_parentId": "57b5cdc5c71a1cc67f4ee752",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4b8612b13413cc0305f462fd0c224e2bbe24e0cc.jpg",
+      "small": "course/en/assets/4b8612b13413cc0305f462fd0c224e2bbe24e0cc.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b5cea0c71a1cc67f4ee759",
+    "_layout": "left",
+    "_parentId": "57b5ce70c71a1cc67f4ee758",
+    "_type": "component",
+    "body": "<p>Understanding your rights to use something is essential, do you know if you are using it correctly?</p>\n",
+    "displayTitle": "Are you ready to practice data journalism legally?",
+    "title": "Are you ready to practice data journalism legally?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b5cea4c71a1cc67f4ee75a",
+    "_layout": "right",
+    "_parentId": "57b5ce70c71a1cc67f4ee758",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "small": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b5d077c71a1cc67f4ee75f",
+    "_layout": "right",
+    "_parentId": "57b5d062c71a1cc67f4ee75d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
+      "small": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b5d070c71a1cc67f4ee75e",
+    "_layout": "left",
+    "_parentId": "57b5d062c71a1cc67f4ee75d",
+    "_type": "component",
+    "body": "<p>Some license are more restricting in use than others. From what we have learnt in this module, which licences is the most permissive?</p>\n",
+    "displayTitle": "What licences are the most permissive?",
+    "title": "What licences are the most permissive?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the correct licences. ",
+    "_items": [
+      {
+        "text": "CC0 Licence ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "CC-BY-SA (The Viral Licence)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "CC-BY (The Attribution Licence)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The Public Domain Mark ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! Both CC0 Licence and the Public Domain Mark are both public domain licences and therefore&nbsp;the most permissive and remove all owners rights.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?&nbsp;Both CC0 Licence and the Public Domain Mark are both public domain licences and therefore&nbsp;the most permissive and remove all owners rights.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b5d219c71a1cc67f4ee763",
+    "_layout": "left",
+    "_parentId": "57b5d202c71a1cc67f4ee762",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d7a00ecc61a77891583a41ad5d6b4f88f499f67c.jpg",
+      "small": "course/en/assets/d7a00ecc61a77891583a41ad5d6b4f88f499f67c.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b5d21cc71a1cc67f4ee764",
+    "_layout": "right",
+    "_parentId": "57b5d202c71a1cc67f4ee762",
+    "_type": "component",
+    "body": "<p>Open Licences are&nbsp;free to use, modify and share the content, even for commercial gain.&nbsp;In the creative commons suite of licences these licences are classed as those which promote &ldquo;free cultural works&rdquo;, but are they free of cost?</p>\n",
+    "displayTitle": "Do Open Licences have no cost?",
+    "title": "Do Open Licences have no cost?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the correct answer.",
+    "_items": [
+      {
+        "text": "Yes ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "No",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! Open Licences are&nbsp;free to use, modify and share the content, even for commercial gain. In the creative commons suite of licences these licences are classed as those which promote &ldquo;free cultural works&rdquo;. In both cases the word free does not necessarily mean &ldquo;no cost&rdquo;, rather it means &ldquo;free speech&rdquo;.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?&nbsp;Open Licences are&nbsp;free to use, modify and share the content, even for commercial gain. In the creative commons suite of licences these licences are classed as those which promote &ldquo;free cultural works&rdquo;. In both cases the word free does not necessarily mean &ldquo;no cost&rdquo;, rather it means &ldquo;free speech&rdquo;.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b5d41cc71a1cc67f4ee768",
+    "_layout": "left",
+    "_parentId": "57b5d401c71a1cc67f4ee767",
+    "_type": "component",
+    "body": "<p>For a practicing data scientist there are a number of copyright exceptions which can assist in the usage of third party copyright protected data. Is criticising the data breaking a copyright law?</p>\n",
+    "displayTitle": "If you criticise data or a story involving data are you breaking copyright laws?",
+    "title": "If you criticise data or a story involving data are you breaking copyright laws?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the correct answer?",
+    "_items": [
+      {
+        "text": "Yes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "No",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!&nbsp;For a practicing data scientist there are a number of copyright exceptions which can assist in the usage of third party copyright protected data. These expectations are known as the &ldquo;fair use&rdquo; or &ldquo;fair dealing&rdquo; rights and cover aspects such as:&nbsp;criticism / review / quotation, and news reporting.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?&nbsp;For a practicing data scientist there are a number of copyright exceptions which can assist in the usage of third party copyright protected data. These expectations are known as the &ldquo;fair use&rdquo; or &ldquo;fair dealing&rdquo; rights and cover aspects such as:&nbsp;criticism / review / quotation, and news reporting.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57b5d969c71a1cc67f4ee76c",
+    "_layout": "right",
+    "_parentId": "57b5d92ac71a1cc67f4ee76b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d1d24b4afcea5906ce1684f8cb3231a3ec0446f6.png",
+      "small": "course/en/assets/d1d24b4afcea5906ce1684f8cb3231a3ec0446f6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57b5d96ec71a1cc67f4ee76d",
+    "_layout": "left",
+    "_parentId": "57b5d92ac71a1cc67f4ee76b",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Just because a works is available in the public domain, does not mean that it is public domain licensed; being on the web does not make something open for use.</p>\n\n<p dir=\"ltr\">When using any works, it is important to consider a few key aspects:</p>\n\n<p dir=\"ltr\">1) &nbsp;&nbsp;&nbsp;Is the work licensed under a public domain or open, free cultural licence?</p>\n\n<p dir=\"ltr\">2) &nbsp;&nbsp;&nbsp;If not, has the copyright expired?</p>\n\n<p dir=\"ltr\">3) &nbsp;&nbsp;&nbsp;If not, if your usage currently covered by a copyright exception?</p>\n\n<p dir=\"ltr\">4) &nbsp;&nbsp;&nbsp;If not, how do you gain permission to lawfully use the work?</p>\n\n<p dir=\"ltr\">Basically copyright law is complex, but it can be simplified with clear licences, so look out for them and consider using them on your own work. Also, do not underestimate the reward which can result from the simple attribution, it may not be monetary, but it does help with status.</p>\n",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57b595e9e396ef981f39ebd0",
+    "_layout": "full",
+    "_parentId": "57b595dbe396ef981f39ebcf",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "57b1c42ae396ef981f39ea30",
+    "_layout": "full",
+    "_parentId": "57b1c41de396ef981f39ea2f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "57b5d41fc71a1cc67f4ee769",
+    "_layout": "right",
+    "_parentId": "57b5d401c71a1cc67f4ee767",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4b8612b13413cc0305f462fd0c224e2bbe24e0cc.jpg",
+      "small": "course/en/assets/4b8612b13413cc0305f462fd0c224e2bbe24e0cc.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c19955c8c479d7402de285",
+    "_layout": "right",
+    "_parentId": "57c198b7c8c479d7402de280",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c19953c8c479d7402de284",
+    "_layout": "left",
+    "_parentId": "57c198b7c8c479d7402de280",
+    "_type": "component",
+    "body": "<p>TODO</p>\n",
+    "displayTitle": "Managing data",
+    "title": "Managing data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57c199f5c8c479d7402de28f",
+    "_layout": "right",
+    "_parentId": "57c1992cc8c479d7402de283",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c19a22c8c479d7402de293",
+    "_layout": "right",
+    "_parentId": "57c199b5c8c479d7402de28a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "Component title",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c19a20c8c479d7402de292",
+    "_layout": "left",
+    "_parentId": "57c199b5c8c479d7402de28a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "TODO: Dashboards and infographics",
+    "title": "TODO: Dashboards and infographics",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57c19a54c8c479d7402de296",
+    "_layout": "left",
+    "_parentId": "57c199cfc8c479d7402de28d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "TODO: Structuring a story ",
+    "title": "TODO: Structuring a story ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57c19a56c8c479d7402de297",
+    "_layout": "right",
+    "_parentId": "57c199cfc8c479d7402de28d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c19ac1c8c479d7402de29e",
+    "_layout": "right",
+    "_parentId": "57c19a9dc8c479d7402de29c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c19abfc8c479d7402de29d",
+    "_layout": "left",
+    "_parentId": "57c19a9dc8c479d7402de29c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "TODO: Data sources and formats",
+    "title": "TODO: Data sources and formats",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  }
+]
